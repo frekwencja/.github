@@ -1,1 +1,1 @@
-# .github
+[**🃏 @frekwencja**](https://github.com/frekwencja) is an open-source organization that aims to help students across the world to effectively learn new languages by using cool methods, such as flashcards and most common words! 
